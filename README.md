@@ -57,4 +57,4 @@ Screenshots
 
 Example window:
 
-![Example window](![Screenshot](https://github.com/Qt-Widgets/QtMultiSpinBox/blob/master/2.PNG))
+![Example window](https://github.com/Qt-Widgets/QtMultiSpinBox/blob/master/2.png)
