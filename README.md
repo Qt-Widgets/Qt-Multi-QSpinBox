@@ -3,7 +3,7 @@ QtMultiSpinBox
 
 The spin box (like QSpinBox) with user fields:
 
-![Screenshot](https://bitbucket.org/vaysseb/qtmultispinbox/src/master/screenshot.png)
+![Screenshot](https://github.com/Qt-Widgets/QtMultiSpinBox/blob/master/1.PNG)
 
 Usage
 =====
@@ -57,4 +57,4 @@ Screenshots
 
 Example window:
 
-![Example window](https://bitbucket.org/vaysseb/qtmultispinbox/src/master/example_window.png)
+![Example window](![Screenshot](https://github.com/Qt-Widgets/QtMultiSpinBox/blob/master/2.PNG))
